@@ -9,7 +9,7 @@
 2. Open a terminal and navigate to the project directory.
 
 ## Server Setup
-1. Navigate to the `server` directory.
+1. Navigate to the cloned directory.
 2. Install the server dependencies by running the following command:
    ```
    npm install
