@@ -18,19 +18,7 @@
    ```
    npm start
    ```
-   The server will start running on http://localhost:5001.
-
-## Client Setup
-1. Navigate to the `my-react-app` directory.
-2. Install the client dependencies by running the following command:
-   ```
-   npm install
-   ```
-3. Start the client by running the following command:
-   ```
-   npm start
-   ```
-   The client will start running on http://localhost:3000.
+   The server will start running on http://localhost:3000.
 
 ## Usage
 1. Open your web browser and go to http://localhost:3000 to access the Weather App.
